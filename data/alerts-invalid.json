@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ALERT-0001",
+    "title": "Suspicious PowerShell execution on WIN-DC01",
+    "severity": "high",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-29T18:22:14.000Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0002",
+    "title": "Impossible travel detected for jdoe",
+    "severity": "critical",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-29T17:05:41.000Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0003",
+    "title": "Outbound traffic to known C2 from K8S-NODE-9",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-29T16:38:0

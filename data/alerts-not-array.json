@@ -1,0 +1,15 @@
+{
+  "exportedAt": "2026-05-29T18:22:14.000Z",
+  "source": "SIEM nightly export",
+  "alerts": [
+    {
+      "id": "ALERT-0001",
+      "title": "Suspicious PowerShell execution on WIN-DC01",
+      "severity": "high",
+      "status": "new",
+      "source": "CrowdStrike Falcon",
+      "createdAt": "2026-05-29T18:22:14.000Z",
+      "assignee": "a.patel"
+    }
+  ]
+}

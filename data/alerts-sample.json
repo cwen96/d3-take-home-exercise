@@ -1,0 +1,182 @@
+[
+  {
+    "id": "SEC-1001",
+    "title": "Root account console login without MFA",
+    "severity": "critical",
+    "status": "new",
+    "source": "Wiz",
+    "createdAt": "2026-05-30T08:14:22.000Z",
+    "assignee": "k.yamamoto"
+  },
+  {
+    "id": "SEC-1002",
+    "title": "AWS WAF blocked SQL injection burst against /api/login",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "AWS WAF",
+    "createdAt": "2026-05-30T06:02:10.000Z",
+    "assignee": "p.novak"
+  },
+  {
+    "id": "SEC-1003",
+    "title": "Public S3 bucket exposed: acme-billing-exports",
+    "severity": "critical",
+    "status": "new",
+    "source": "Wiz",
+    "createdAt": "2026-05-29T22:41:55.000Z",
+    "assignee": null
+  },
+  {
+    "id": "SEC-1004",
+    "title": "IAM access key leaked in public GitHub repo",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Snyk",
+    "createdAt": "2026-05-29T19:18:03.000Z",
+    "assignee": "f.haddad"
+  },
+  {
+    "id": "SEC-1005",
+    "title": "Anomalous IAM role assumption from new geography",
+    "severity": "high",
+    "status": "new",
+    "source": "Azure Sentinel",
+    "createdAt": "2026-05-29T15:47:31.000Z",
+    "assignee": "d.oconnor"
+  },
+  {
+    "id": "SEC-1006",
+    "title": "Container escaped to host on gke-node-pool-a",
+    "severity": "high",
+    "status": "new",
+    "source": "Datadog Cloud SIEM",
+    "createdAt": "2026-05-29T11:05:09.000Z",
+    "assignee": null
+  },
+  {
+    "id": "SEC-1007",
+    "title": "Unusual egress to Tor exit node from ec2-bastion-01",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Darktrace",
+    "createdAt": "2026-05-28T23:33:48.000Z",
+    "assignee": "h.becker"
+  },
+  {
+    "id": "SEC-1008",
+    "title": "Kubernetes API server accessed with anonymous auth",
+    "severity": "high",
+    "status": "new",
+    "source": "Wiz",
+    "createdAt": "2026-05-28T20:12:17.000Z",
+    "assignee": "p.novak"
+  },
+  {
+    "id": "SEC-1009",
+    "title": "Brute-force against RDP exposed on azure-vm-web-07",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Azure Sentinel",
+    "createdAt": "2026-05-28T16:50:44.000Z",
+    "assignee": "w.tanaka"
+  },
+  {
+    "id": "SEC-1010",
+    "title": "Disabled CloudTrail logging in us-east-1",
+    "severity": "critical",
+    "status": "new",
+    "source": "Google Chronicle",
+    "createdAt": "2026-05-28T09:27:02.000Z",
+    "assignee": "k.yamamoto"
+  },
+  {
+    "id": "SEC-1011",
+    "title": "Malicious npm package detected in build pipeline",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Snyk",
+    "createdAt": "2026-05-27T21:09:38.000Z",
+    "assignee": "f.haddad"
+  },
+  {
+    "id": "SEC-1012",
+    "title": "Data exfiltration: large download from rds-postgres-prod-1",
+    "severity": "high",
+    "status": "new",
+    "source": "Datadog Cloud SIEM",
+    "createdAt": "2026-05-27T17:44:51.000Z",
+    "assignee": null
+  },
+  {
+    "id": "SEC-1013",
+    "title": "Suspicious OAuth app granted mail.read scope",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Azure Sentinel",
+    "createdAt": "2026-05-27T13:21:06.000Z",
+    "assignee": "d.oconnor"
+  },
+  {
+    "id": "SEC-1014",
+    "title": "Privilege escalation via overly-permissive IAM policy",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Wiz",
+    "createdAt": "2026-05-26T20:55:29.000Z",
+    "assignee": "h.becker"
+  },
+  {
+    "id": "SEC-1015",
+    "title": "Secrets detected in Lambda environment variables",
+    "severity": "medium",
+    "status": "new",
+    "source": "Snyk",
+    "createdAt": "2026-05-26T14:38:12.000Z",
+    "assignee": null
+  },
+  {
+    "id": "SEC-1016",
+    "title": "Port scan from Zscaler tunnel egress IP",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "Zscaler",
+    "createdAt": "2026-05-25T23:02:47.000Z",
+    "assignee": "w.tanaka"
+  },
+  {
+    "id": "SEC-1017",
+    "title": "Cryptomining behavior on prod-eks-cluster-3",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Trellix EDR",
+    "createdAt": "2026-05-25T18:19:33.000Z",
+    "assignee": "k.yamamoto"
+  },
+  {
+    "id": "SEC-1018",
+    "title": "Phishing page impersonating Okta login portal",
+    "severity": "medium",
+    "status": "new",
+    "source": "Google Chronicle",
+    "createdAt": "2026-05-24T22:47:50.000Z",
+    "assignee": "p.novak"
+  },
+  {
+    "id": "SEC-1019",
+    "title": "Expired TLS certificate on api.acme.internal",
+    "severity": "low",
+    "status": "new",
+    "source": "Elastic Security",
+    "createdAt": "2026-05-24T10:15:24.000Z",
+    "assignee": null
+  },
+  {
+    "id": "SEC-1020",
+    "title": "Failed MFA challenges spike for svc-ci-runner",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "Elastic Security",
+    "createdAt": "2026-05-23T19:58:41.000Z",
+    "assignee": "f.haddad"
+  }
+]

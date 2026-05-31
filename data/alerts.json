@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "ALERT-0088",
+    "title": "MFA fatigue attack targeting bwong",
+    "severity": "low",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-31T03:52:36.381Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0034",
+    "title": "Brute-force attack against SSH on WIN-DC01",
+    "severity": "low",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-31T03:35:50.430Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0153",
+    "title": "Suspicious PowerShell execution on K8S-NODE-9",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-31T03:33:26.459Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0176",
+    "title": "Brute-force attack against SSH on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-31T03:24:06.544Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0029",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "high",
+    "status": "resolved",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-31T02:19:03.946Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0001",
+    "title": "Multiple failed login attempts for asmith",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-31T01:13:44.545Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0152",
+    "title": "Suspicious PowerShell execution on VPN-GW-1",
+    "severity": "critical",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-30T23:52:22.111Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0125",
+    "title": "Ransomware behavior detected on FIN-SRV-03",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-30T21:05:18.178Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0149",
+    "title": "Multiple failed login attempts for ekhan",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-30T20:54:05.397Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0082",
+    "title": "Unusual data egress from WEB-PROD-12",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-30T20:46:44.200Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0145",
+    "title": "Privilege escalation attempt by asmith",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-30T18:06:59.522Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0023",
+    "title": "New admin account created on K8S-NODE-9",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-30T15:49:58.794Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0042",
+    "title": "Multiple failed login attempts for jdoe",
+    "severity": "medium",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-30T14:11:18.020Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0189",
+    "title": "Malware detected on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-30T11:02:09.669Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0194",
+    "title": "Malware detected on MAIL-01",
+    "severity": "high",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-30T10:08:33.538Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0055",
+    "title": "Multiple failed login attempts for dmuller",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-30T08:57:57.916Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0196",
+    "title": "Multiple failed login attempts for bwong",
+    "severity": "medium",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-30T08:54:44.485Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0051",
+    "title": "Ransomware behavior detected on HR-LAPTOP-77",
+    "severity": "critical",
+    "status": "new",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-30T08:22:53.273Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0117",
+    "title": "Ransomware behavior detected on DB-PROD-2",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Splunk",
+    "createdAt": "2026-05-30T08:16:48.982Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0178",
+    "title": "Ransomware behavior detected on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-30T08:16:14.553Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0120",
+    "title": "Unusual data egress from VPN-GW-1",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-30T07:43:17.567Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0139",
+    "title": "Multiple failed login attempts for csilva",
+    "severity": "low",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-30T04:36:49.031Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0085",
+    "title": "Brute-force attack against SSH on WEB-PROD-12",
+    "severity": "medium",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-30T03:06:00.665Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0099",
+    "title": "Port scan detected from DB-PROD-2",
+    "severity": "low",
+    "status": "resolved",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-30T02:21:57.595Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0046",
+    "title": "Malware detected on K8S-NODE-9",
+    "severity": "medium",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-29T22:38:34.890Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0163",
+    "title": "Anomalous API token usage by ekhan",
+    "severity": "high",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-29T18:31:38.975Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0090",
+    "title": "Malware detected on DB-PROD-2",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-29T14:11:00.333Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0166",
+    "title": "Brute-force attack against SSH on VPN-GW-1",
+    "severity": "medium",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-29T12:12:44.091Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0156",
+    "title": "Port scan detected from K8S-NODE-9",
+    "severity": "high",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-29T11:16:50.127Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0008",
+    "title": "Multiple failed login attempts for jdoe",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-29T11:15:33.875Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0063",
+    "title": "Brute-force attack against SSH on MAIL-01",
+    "severity": "high",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-29T07:19:02.137Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0110",
+    "title": "Phishing email reported by jdoe",
+    "severity": "high",
+    "status": "new",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-29T06:09:12.053Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0199",
+    "title": "Ransomware behavior detected on WEB-PROD-12",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-29T05:56:47.963Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0100",
+    "title": "Unusual data egress from VPN-GW-1",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-29T05:15:20.089Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0172",
+    "title": "Phishing email reported by ekhan",
+    "severity": "critical",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-29T04:58:58.155Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0138",
+    "title": "Privilege escalation attempt by bwong",
+    "severity": "low",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-29T04:08:09.232Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0159",
+    "title": "Outbound traffic to known C2 from WIN-DC01",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-29T01:39:31.774Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0096",
+    "title": "Outbound traffic to known C2 from VPN-GW-1",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-28T23:57:36.491Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0003",
+    "title": "Endpoint protection disabled on WIN-DC01",
+    "severity": "high",
+    "status": "new",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-28T22:13:34.100Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0039",
+    "title": "Malware detected on FIN-SRV-03",
+    "severity": "medium",
+    "status": "new",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-28T13:40:32.203Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0160",
+    "title": "Suspicious PowerShell execution on VPN-GW-1",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Splunk",
+    "createdAt": "2026-05-28T10:24:39.742Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0061",
+    "title": "Unusual data egress from DB-PROD-2",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-28T10:05:03.138Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0033",
+    "title": "Outbound traffic to known C2 from VPN-GW-1",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Splunk",
+    "createdAt": "2026-05-28T08:51:19.797Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0130",
+    "title": "Port scan detected from FIN-SRV-03",
+    "severity": "high",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-28T04:04:13.769Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0040",
+    "title": "Suspicious PowerShell execution on WEB-PROD-12",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-28T00:07:15.295Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0116",
+    "title": "Outbound traffic to known C2 from WIN-DC01",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-27T20:03:16.921Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0197",
+    "title": "Brute-force attack against SSH on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-27T19:16:28.188Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0142",
+    "title": "Privilege escalation attempt by ekhan",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-27T17:01:23.058Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0035",
+    "title": "Outbound traffic to known C2 from DB-PROD-2",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-27T16:50:28.542Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0128",
+    "title": "Brute-force attack against SSH on HR-LAPTOP-77",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Splunk",
+    "createdAt": "2026-05-27T15:11:17.319Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0092",
+    "title": "New admin account created on WEB-PROD-12",
+    "severity": "medium",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-27T14:31:36.844Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0195",
+    "title": "Unusual data egress from VPN-GW-1",
+    "severity": "medium",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-27T13:57:57.083Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0164",
+    "title": "Impossible travel detected for dmuller",
+    "severity": "medium",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-27T10:57:33.075Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0146",
+    "title": "Suspicious PowerShell execution on FIN-SRV-03",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-27T08:18:23.215Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0174",
+    "title": "Malware detected on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-27T05:12:46.376Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0104",
+    "title": "Anomalous API token usage by jdoe",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-27T02:58:38.385Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0081",
+    "title": "Unusual data egress from K8S-NODE-9",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-27T01:02:48.601Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0052",
+    "title": "Multiple failed login attempts for jdoe",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-26T23:29:32.732Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0106",
+    "title": "Endpoint protection disabled on HR-LAPTOP-77",
+    "severity": "critical",
+    "status": "dismissed",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-26T20:59:44.252Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0083",
+    "title": "New admin account created on K8S-NODE-9",
+    "severity": "medium",
+    "status": "new",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-26T20:06:05.146Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0066",
+    "title": "Suspicious PowerShell execution on DB-PROD-2",
+    "severity": "medium",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-26T19:11:23.593Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0030",
+    "title": "Endpoint protection disabled on MAIL-01",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-26T18:52:07.936Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0016",
+    "title": "Suspicious PowerShell execution on MAIL-01",
+    "severity": "medium",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-26T15:04:30.178Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0171",
+    "title": "Suspicious PowerShell execution on K8S-NODE-9",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-26T13:19:04.117Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0155",
+    "title": "Impossible travel detected for csilva",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-26T12:05:30.229Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0134",
+    "title": "MFA fatigue attack targeting csilva",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-26T08:42:08.114Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0141",
+    "title": "Malware detected on WIN-DC01",
+    "severity": "medium",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-26T07:20:16.607Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0161",
+    "title": "Impossible travel detected for ekhan",
+    "severity": "low",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-26T04:16:24.661Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0132",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-25T16:31:57.763Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0122",
+    "title": "Endpoint protection disabled on VPN-GW-1",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-25T15:09:34.009Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0021",
+    "title": "Unusual data egress from FIN-SRV-03",
+    "severity": "medium",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-25T11:45:00.528Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0076",
+    "title": "Impossible travel detected for csilva",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-25T11:04:14.079Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0010",
+    "title": "Phishing email reported by jdoe",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-25T07:39:54.298Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0184",
+    "title": "New admin account created on WIN-DC01",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-25T06:40:11.783Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0113",
+    "title": "Privilege escalation attempt by ekhan",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-25T05:14:44.178Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0044",
+    "title": "Privilege escalation attempt by asmith",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-25T01:44:04.834Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0169",
+    "title": "Malware detected on VPN-GW-1",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-24T23:10:28.035Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0087",
+    "title": "Impossible travel detected for jdoe",
+    "severity": "high",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-24T13:49:48.919Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0053",
+    "title": "Anomalous API token usage by ekhan",
+    "severity": "medium",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-24T04:54:25.402Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0032",
+    "title": "Phishing email reported by jdoe",
+    "severity": "high",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-24T00:54:43.322Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0193",
+    "title": "Outbound traffic to known C2 from FIN-SRV-03",
+    "severity": "critical",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-23T19:47:14.562Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0198",
+    "title": "Outbound traffic to known C2 from MAIL-01",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-23T17:42:14.645Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0028",
+    "title": "Impossible travel detected for csilva",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-23T16:47:14.867Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0124",
+    "title": "Malware detected on DB-PROD-2",
+    "severity": "low",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-23T16:14:11.125Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0173",
+    "title": "Privilege escalation attempt by dmuller",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-23T15:58:41.991Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0002",
+    "title": "Brute-force attack against SSH on K8S-NODE-9",
+    "severity": "high",
+    "status": "new",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-23T13:12:59.249Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0101",
+    "title": "Brute-force attack against SSH on FIN-SRV-03",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "Splunk",
+    "createdAt": "2026-05-23T11:45:47.715Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0009",
+    "title": "Suspicious PowerShell execution on DB-PROD-2",
+    "severity": "critical",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-23T10:08:29.368Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0007",
+    "title": "Impossible travel detected for csilva",
+    "severity": "medium",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-23T08:34:21.583Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0168",
+    "title": "Suspicious PowerShell execution on FIN-SRV-03",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-23T07:31:16.301Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0077",
+    "title": "Endpoint protection disabled on MAIL-01",
+    "severity": "low",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-23T03:04:36.345Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0112",
+    "title": "Unusual data egress from DB-PROD-2",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-23T00:54:11.275Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0105",
+    "title": "Port scan detected from WEB-PROD-12",
+    "severity": "medium",
+    "status": "new",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-22T22:52:24.800Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0165",
+    "title": "Anomalous API token usage by asmith",
+    "severity": "critical",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-22T22:36:24.994Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0043",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "high",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-22T16:22:46.112Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0015",
+    "title": "Phishing email reported by csilva",
+    "severity": "medium",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-22T14:48:00.034Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0014",
+    "title": "New admin account created on FIN-SRV-03",
+    "severity": "low",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-22T08:55:48.679Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0012",
+    "title": "Brute-force attack against SSH on K8S-NODE-9",
+    "severity": "medium",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-22T08:27:13.147Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0025",
+    "title": "Port scan detected from MAIL-01",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-22T05:52:46.117Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0133",
+    "title": "Outbound traffic to known C2 from DB-PROD-2",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-22T04:28:15.751Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0075",
+    "title": "Malware detected on VPN-GW-1",
+    "severity": "medium",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-22T03:46:35.335Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0135",
+    "title": "Suspicious PowerShell execution on WEB-PROD-12",
+    "severity": "high",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-21T21:56:47.144Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0086",
+    "title": "MFA fatigue attack targeting jdoe",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Okta",
+    "createdAt": "2026-05-21T20:52:15.800Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0049",
+    "title": "Port scan detected from MAIL-01",
+    "severity": "medium",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-21T20:50:34.569Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0150",
+    "title": "Outbound traffic to known C2 from DB-PROD-2",
+    "severity": "critical",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-21T10:35:19.941Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0060",
+    "title": "Multiple failed login attempts for dmuller",
+    "severity": "low",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-21T01:23:29.450Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0084",
+    "title": "Phishing email reported by csilva",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-21T00:26:44.292Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0041",
+    "title": "Outbound traffic to known C2 from VPN-GW-1",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-21T00:20:11.337Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0181",
+    "title": "Privilege escalation attempt by dmuller",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-20T19:52:49.188Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0047",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "medium",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-20T15:12:45.773Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0019",
+    "title": "Port scan detected from DB-PROD-2",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-20T11:38:33.931Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0167",
+    "title": "Brute-force attack against SSH on FIN-SRV-03",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-20T11:30:13.898Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0170",
+    "title": "Multiple failed login attempts for csilva",
+    "severity": "medium",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-20T10:40:15.497Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0177",
+    "title": "Ransomware behavior detected on WIN-DC01",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-20T03:00:56.104Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0018",
+    "title": "Malware detected on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-19T19:39:37.560Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0050",
+    "title": "MFA fatigue attack targeting ekhan",
+    "severity": "low",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-19T05:45:31.125Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0103",
+    "title": "Suspicious PowerShell execution on FIN-SRV-03",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-18T23:23:45.997Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0056",
+    "title": "Multiple failed login attempts for bwong",
+    "severity": "critical",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-18T18:42:57.505Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0070",
+    "title": "MFA fatigue attack targeting dmuller",
+    "severity": "medium",
+    "status": "new",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-18T16:31:23.803Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0080",
+    "title": "Impossible travel detected for ekhan",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-18T14:29:16.570Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0129",
+    "title": "Ransomware behavior detected on MAIL-01",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-18T11:47:45.733Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0108",
+    "title": "MFA fatigue attack targeting ekhan",
+    "severity": "low",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-18T10:32:10.421Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0013",
+    "title": "Brute-force attack against SSH on DB-PROD-2",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-18T07:30:17.227Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0078",
+    "title": "Phishing email reported by ekhan",
+    "severity": "high",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-17T21:58:04.150Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0094",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-17T03:04:12.516Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0048",
+    "title": "Privilege escalation attempt by dmuller",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Splunk",
+    "createdAt": "2026-05-16T19:48:33.477Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0182",
+    "title": "Multiple failed login attempts for ekhan",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-16T19:13:50.920Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0119",
+    "title": "Phishing email reported by ekhan",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-16T15:22:58.293Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0026",
+    "title": "Ransomware behavior detected on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-16T08:33:54.109Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0057",
+    "title": "New admin account created on DB-PROD-2",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-16T06:59:45.844Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0089",
+    "title": "Endpoint protection disabled on WEB-PROD-12",
+    "severity": "high",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-15T20:25:55.058Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0121",
+    "title": "Ransomware behavior detected on K8S-NODE-9",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-15T17:33:10.928Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0115",
+    "title": "Outbound traffic to known C2 from WIN-DC01",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-15T16:17:40.389Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0187",
+    "title": "MFA fatigue attack targeting csilva",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-15T12:59:38.268Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0144",
+    "title": "Endpoint protection disabled on VPN-GW-1",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-15T10:39:36.313Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0137",
+    "title": "Unusual data egress from WIN-DC01",
+    "severity": "critical",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-15T04:00:36.443Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0157",
+    "title": "Malware detected on WEB-PROD-12",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-15T02:36:55.202Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0037",
+    "title": "Brute-force attack against SSH on HR-LAPTOP-77",
+    "severity": "low",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-14T18:09:01.088Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0188",
+    "title": "Outbound traffic to known C2 from MAIL-01",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-14T17:14:05.645Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0072",
+    "title": "Endpoint protection disabled on VPN-GW-1",
+    "severity": "critical",
+    "status": "resolved",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-14T14:35:26.042Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0118",
+    "title": "Malware detected on WIN-DC01",
+    "severity": "high",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-14T13:31:39.476Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0192",
+    "title": "Multiple failed login attempts for bwong",
+    "severity": "critical",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-14T13:02:36.174Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0093",
+    "title": "Endpoint protection disabled on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "resolved",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-14T09:28:53.632Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0179",
+    "title": "Malware detected on WIN-DC01",
+    "severity": "high",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-14T03:08:41.624Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0147",
+    "title": "Outbound traffic to known C2 from MAIL-01",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-13T21:09:30.313Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0185",
+    "title": "Port scan detected from HR-LAPTOP-77",
+    "severity": "low",
+    "status": "in_progress",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-13T07:12:46.586Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0020",
+    "title": "Unusual data egress from DB-PROD-2",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-11T00:11:03.948Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0065",
+    "title": "Outbound traffic to known C2 from HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-10T19:57:27.231Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0190",
+    "title": "Privilege escalation attempt by jdoe",
+    "severity": "critical",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-10T16:42:38.039Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0095",
+    "title": "Port scan detected from DB-PROD-2",
+    "severity": "critical",
+    "status": "in_progress",
+    "source": "Okta",
+    "createdAt": "2026-05-10T02:26:18.900Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0005",
+    "title": "Unusual data egress from FIN-SRV-03",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-10T00:32:49.837Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0140",
+    "title": "Outbound traffic to known C2 from MAIL-01",
+    "severity": "critical",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-10T00:17:16.451Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0068",
+    "title": "Unusual data egress from K8S-NODE-9",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-09T16:33:45.322Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0114",
+    "title": "Ransomware behavior detected on DB-PROD-2",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-09T14:35:46.940Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0059",
+    "title": "Multiple failed login attempts for asmith",
+    "severity": "high",
+    "status": "new",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-08T23:26:10.197Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0143",
+    "title": "Multiple failed login attempts for ekhan",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-08T18:31:05.388Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0024",
+    "title": "Privilege escalation attempt by asmith",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-08T11:50:31.100Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0031",
+    "title": "Endpoint protection disabled on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-08T07:40:55.263Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0098",
+    "title": "Brute-force attack against SSH on WEB-PROD-12",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Splunk",
+    "createdAt": "2026-05-08T00:08:44.715Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0154",
+    "title": "Outbound traffic to known C2 from DB-PROD-2",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-07T19:43:01.125Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0067",
+    "title": "Port scan detected from VPN-GW-1",
+    "severity": "critical",
+    "status": "dismissed",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-07T17:02:32.352Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0183",
+    "title": "Port scan detected from WEB-PROD-12",
+    "severity": "low",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-07T15:01:55.104Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0006",
+    "title": "Phishing email reported by asmith",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-07T07:02:43.762Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0062",
+    "title": "New admin account created on WIN-DC01",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Splunk",
+    "createdAt": "2026-05-07T06:14:00.935Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0022",
+    "title": "Port scan detected from WIN-DC01",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-06T22:29:00.705Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0186",
+    "title": "Multiple failed login attempts for bwong",
+    "severity": "medium",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-06T21:38:32.510Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0102",
+    "title": "Malware detected on MAIL-01",
+    "severity": "low",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-06T21:29:16.539Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0074",
+    "title": "Multiple failed login attempts for dmuller",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-06T21:15:52.274Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0038",
+    "title": "Brute-force attack against SSH on FIN-SRV-03",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-06T18:00:55.393Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0011",
+    "title": "Phishing email reported by jdoe",
+    "severity": "low",
+    "status": "dismissed",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-06T17:55:45.996Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0131",
+    "title": "Port scan detected from K8S-NODE-9",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-06T15:41:24.340Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0058",
+    "title": "Malware detected on WEB-PROD-12",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-06T13:35:14.546Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0054",
+    "title": "Impossible travel detected for jdoe",
+    "severity": "low",
+    "status": "resolved",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-06T12:30:51.882Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0158",
+    "title": "Impossible travel detected for dmuller",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-06T04:34:40.996Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0180",
+    "title": "Malware detected on MAIL-01",
+    "severity": "low",
+    "status": "resolved",
+    "source": "AWS GuardDuty",
+    "createdAt": "2026-05-06T03:04:49.328Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0004",
+    "title": "MFA fatigue attack targeting csilva",
+    "severity": "high",
+    "status": "resolved",
+    "source": "Okta",
+    "createdAt": "2026-05-06T00:37:32.234Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0127",
+    "title": "Brute-force attack against SSH on DB-PROD-2",
+    "severity": "critical",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-05T01:46:11.371Z",
+    "assignee": "j.nguyen"
+  },
+  {
+    "id": "ALERT-0148",
+    "title": "Brute-force attack against SSH on WIN-DC01",
+    "severity": "medium",
+    "status": "new",
+    "source": "Splunk",
+    "createdAt": "2026-05-05T00:58:17.832Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0069",
+    "title": "Unusual data egress from WEB-PROD-12",
+    "severity": "high",
+    "status": "resolved",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-05T00:45:17.193Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0191",
+    "title": "Unusual data egress from HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-04T23:41:36.900Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0091",
+    "title": "Port scan detected from WEB-PROD-12",
+    "severity": "high",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-04T22:54:44.994Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0107",
+    "title": "Outbound traffic to known C2 from K8S-NODE-9",
+    "severity": "low",
+    "status": "new",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-04T21:07:51.841Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0175",
+    "title": "Malware detected on MAIL-01",
+    "severity": "high",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-04T20:41:28.844Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0151",
+    "title": "Impossible travel detected for jdoe",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Splunk",
+    "createdAt": "2026-05-04T17:57:12.523Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0045",
+    "title": "Malware detected on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "new",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-04T16:32:58.913Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0097",
+    "title": "Suspicious PowerShell execution on HR-LAPTOP-77",
+    "severity": "high",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-04T09:46:06.300Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0126",
+    "title": "Anomalous API token usage by bwong",
+    "severity": "medium",
+    "status": "in_progress",
+    "source": "Cloudflare WAF",
+    "createdAt": "2026-05-04T05:31:25.506Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0111",
+    "title": "Outbound traffic to known C2 from DB-PROD-2",
+    "severity": "high",
+    "status": "new",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-03T21:53:10.486Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0200",
+    "title": "Privilege escalation attempt by csilva",
+    "severity": "medium",
+    "status": "dismissed",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-03T12:28:57.979Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0136",
+    "title": "Brute-force attack against SSH on FIN-SRV-03",
+    "severity": "medium",
+    "status": "resolved",
+    "source": "Palo Alto Networks",
+    "createdAt": "2026-05-03T00:02:58.263Z",
+    "assignee": "s.okoro"
+  },
+  {
+    "id": "ALERT-0079",
+    "title": "Unusual data egress from HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-02T20:51:54.017Z",
+    "assignee": "a.patel"
+  },
+  {
+    "id": "ALERT-0017",
+    "title": "New admin account created on WEB-PROD-12",
+    "severity": "medium",
+    "status": "new",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-02T19:25:06.814Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0036",
+    "title": "Multiple failed login attempts for asmith",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "Suricata IDS",
+    "createdAt": "2026-05-02T19:11:56.609Z",
+    "assignee": "m.garcia"
+  },
+  {
+    "id": "ALERT-0123",
+    "title": "Brute-force attack against SSH on HR-LAPTOP-77",
+    "severity": "medium",
+    "status": "new",
+    "source": "Okta",
+    "createdAt": "2026-05-02T18:12:02.368Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0071",
+    "title": "Outbound traffic to known C2 from K8S-NODE-9",
+    "severity": "high",
+    "status": "resolved",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-02T03:28:22.113Z",
+    "assignee": "t.kim"
+  },
+  {
+    "id": "ALERT-0027",
+    "title": "Malware detected on VPN-GW-1",
+    "severity": "high",
+    "status": "in_progress",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-02T02:30:46.937Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0109",
+    "title": "Ransomware behavior detected on WIN-DC01",
+    "severity": "low",
+    "status": "resolved",
+    "source": "SentinelOne",
+    "createdAt": "2026-05-02T01:02:17.929Z",
+    "assignee": "l.dubois"
+  },
+  {
+    "id": "ALERT-0162",
+    "title": "Suspicious PowerShell execution on FIN-SRV-03",
+    "severity": "high",
+    "status": "dismissed",
+    "source": "Proofpoint",
+    "createdAt": "2026-05-01T08:27:31.189Z",
+    "assignee": "r.cohen"
+  },
+  {
+    "id": "ALERT-0064",
+    "title": "Outbound traffic to known C2 from WEB-PROD-12",
+    "severity": "high",
+    "status": "resolved",
+    "source": "CrowdStrike Falcon",
+    "createdAt": "2026-05-01T06:30:28.423Z",
+    "assignee": null
+  },
+  {
+    "id": "ALERT-0073",
+    "title": "Outbound traffic to known C2 from VPN-GW-1",
+    "severity": "high",
+    "status": "new",
+    "source": "Microsoft Defender",
+    "createdAt": "2026-05-01T05:24:37.189Z",
+    "assignee": "m.garcia"
+  }
+]

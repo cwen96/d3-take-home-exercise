@@ -1,0 +1,14 @@
+# Build output / deps
+node_modules
+.next
+next-env.d.ts
+package-lock.json
+
+# Generated / vendored
+components/ui
+*.css
+
+# Data + assets + docs (kept as authored)
+data
+public
+*.md
